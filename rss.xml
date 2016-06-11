@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[BitcoinTrader]]></title>
         <description><![CDATA[BitcoinTrader]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bitcointrader/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 11 Jun 2016 04:21:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 11 Jun 2016 04:22:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bitcointrader/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>How To Make A Second Income Without A Second Job...</p>]]></description>
-            <link>undefinedhow-to-make-a-second-income-without-a-second-job/index.html</link>
+            <link>https://thegrid.ai/bitcointrader/how-to-make-a-second-income-without-a-second-job/index.html</link>
             <guid isPermaLink="false">dfbc532e-38ff-4027-8970-59930a747fa2</guid>
-            <pubDate>Sat, 11 Jun 2016 04:21:31 GMT</pubDate>
+            <pubDate>Sat, 11 Jun 2016 04:22:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
