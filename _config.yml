@@ -1,6 +1,6 @@
-name: BitcoinTrader
+name: The Bitcoin Trader Guide
 favicon: null
-layout_spectrum: 0.8060067992191762
+layout_spectrum: 0.23973
 typography_spectrum: 0.3056341197807342
 title: The Bitcoin Trader Guide
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#030303'
+    - '#03fc60'
+    - '#d39104'
+    - '#055724'
+    - '#e1d600'
   brandStrength: 0.7945561013184488
   lightness: 0.9227051564957947
   saturation: 0.4811018821783364
