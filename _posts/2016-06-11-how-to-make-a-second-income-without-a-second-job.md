@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: How To Make A Second Income Without A Second Job...
-datePublished: '2016-06-11T04:21:31.658Z'
-dateModified: '2016-06-11T04:20:11.419Z'
+datePublished: '2016-06-11T04:22:32.105Z'
+dateModified: '2016-06-11T04:22:25.600Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-11-how-to-make-a-second-income-without-a-second-job.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-11-how-to-make-a-second-income-without-a-second-job.md
 url: how-to-make-a-second-income-without-a-second-job/index.html
 _type: Article
 
@@ -28,7 +28,7 @@ I just had a friend of mine share with me how he took $26.00 and turned it into 
 
 View this 9 min. video for more details, at: [https://www.youtube.com/watch?v=WNFnXmMn1Z8][3]
 
-There is a **DIGITAL GOLD RUSH** going on right now on the Internet, called **["][4] [Bitcoin Data Mining][4]["][4]. **
+There is a **DIGITAL GOLD RUSH** going on right now on the Internet, called **["][4][Bitcoin Data Mining][4]["][4]. **
 
 But just like the Gold Rush of the mid 1800's, the ones that are going to get rich are the ones supplying the "picks and shovels" or rather the tools for mining.
 
