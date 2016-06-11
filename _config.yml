@@ -1,7 +1,7 @@
 name: The Bitcoin Trader Guide
 favicon: null
 layout_spectrum: 0.23973
-typography_spectrum: 0.76027
+typography_spectrum: 0.5
 title: The Bitcoin Trader Guide
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#d39104'
     - '#055724'
     - '#e1d600'
-  brandStrength: 0.7945561013184488
+  brandStrength: 0.5
   lightness: 0.9227051564957947
   saturation: 0.4811018821783364
   rhythmicContrast: 0.3851640827488154
